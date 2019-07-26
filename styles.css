@@ -1,8 +1,30 @@
 .homepage{
-    background-image:url("../ZahraPizza/images/Pizza\ 1.jpg");
+    background-image:url("https://github.com/Hulian2000/ZahraPizza/blob/master/images/Pizza%201.jpg?raw=true");
     background-repeat: no-repeat;
-    background-size: 40px;
-    height: 400px;
+    background-size: cover;
+    height: 700px;
     width: 100%;
+    text-align: center;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Farro', sans-serif;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-family: 'Jacques Francois Shadow', cursive;
 
+}
+h3{
+    color: white;
+    text-align: center;
+    font-family: 'Jacques Francois Shadow', cursive;
+
+}
+h1#about{
+    color: brown;
+    text-align: center;
+    font-family: 'Jacques Francois Shadow', cursive;
 }
