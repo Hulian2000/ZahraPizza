@@ -10,6 +10,7 @@ Zahra Pizza Inn is a welll organised java that offers the best services for our 
 ## Contribute.
 Create a new Branch.
 Used github in formation of the application.
+Use of Bootstrap.
 
 #### Known Bugs.
 No bugs detectected,Incase of any ignore them for the user.
