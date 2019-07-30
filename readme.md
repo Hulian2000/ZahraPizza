@@ -26,5 +26,5 @@ To our customers you can always feel free to make calls for orders and also reco
 
 ####License.
 MIT license
-Copyright (c) {2019}
+Copyright (c) {2019}.
 
