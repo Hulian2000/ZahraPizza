@@ -18,6 +18,8 @@ No bugs detectected,Incase of any ignore them for the user.
 JavaScript.
 JQuery.
 Bootstrap.
+CSS.
+HTML
 
 ####communication Mode.
 To our customers you can always feel free to make calls for orders and also recommendations on how you would want us to improve.
