@@ -14,3 +14,9 @@ Used github in formation of the application.
 ####Known Bugs.
 No bugs detectected,Incase of any ignore them for the user.
 
+##Installation setup.
+JavaScript.
+JQuery.
+Bootstrap.
+
+
