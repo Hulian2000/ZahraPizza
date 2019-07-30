@@ -19,4 +19,6 @@ JavaScript.
 JQuery.
 Bootstrap.
 
+####communication Mode.
+To our customers you can always feel free to make calls for orders and also recommendations on how you would want us to improve.
 
